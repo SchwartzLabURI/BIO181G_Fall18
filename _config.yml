@@ -1,8 +1,8 @@
 encoding: utf-8
-baseurl: /BIO181G
-url: SchwartzLabURI.github.io/BIO181G/
+baseurl: /BIO181G_Fall18
+url: SchwartzLabURI.github.io/BIO181G_Fall18/
 permalink: /:title/
-disqus_shortname: BIO181G
+disqus_shortname: BIO181G Fall 2018
 prose:
   media: /img
   ignore:
