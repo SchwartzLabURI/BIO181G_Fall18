@@ -11,5 +11,5 @@ categories:
 - Reference reliable sources and cite them
 - Plenty of evidence to back up your argument
 - Bring up the other side of the argument and argue against it
-- Good grammer
+- Good grammar
 - Organization and flow
